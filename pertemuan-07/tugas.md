@@ -87,7 +87,6 @@ Pada contoh kedua, kode `bk0105` diketik dengan huruf kecil lalu tersimpan sebag
 
 ## Kriteria penilaian
 
-Mengacu ke "Rubrik Penilaian Tugas Praktik Coding" di RPS.
 
 | Kriteria | Bobot | Yang diperiksa pada tugas ini |
 |---|---|---|
